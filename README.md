@@ -40,8 +40,7 @@ portfolio/
 ```
 
 ## 🖥️ Live Demo
-[View Live Portfolio](https://your-portfolio-url.com)  
-*Replace with your actual deployment URL*
+[View Live Portfolio](https://iiekezie.vercel.app/)
 
 ## 🛠️ Installation & Setup
 1. Clone the repository:
