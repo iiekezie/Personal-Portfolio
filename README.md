@@ -1,7 +1,9 @@
 # Ifeanyi Ekezie - Personal Portfolio
 
-![Portfolio Screenshot](./screenshot.png)  
-*Replace with actual screenshot of your portfolio*
+## 🖼️ Portfolio Screenshot
+
+![Portfolio Screenshot](https://github.com/iiekezie/Personal-Portfolio/blob/main/Screenshot%202025-07-13%20122001.png?raw=true)
+
 
 ## 🌟 Overview
 A modern, responsive portfolio website showcasing my skills, projects, and services as a Full Stack Developer. Built with HTML5, CSS3, and JavaScript, featuring smooth animations and dark/light mode toggle.
