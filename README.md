@@ -104,7 +104,8 @@ While this is a personal portfolio, suggestions and improvements are welcome! Pl
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-Ifeanyi Ekezie  
-- Email: hello@ifeanyiekezie.com  
-- LinkedIn: [linkedin.com/in/iiekezie](https://linkedin.com/in/iiekezie)  
-- GitHub: [github.com/iiekezie](https://github.com/iiekezie)
+
+[📧](mailto:iiekezie@gmail.com) &nbsp;
+[💼](https://linkedin.com/in/iiekezie) &nbsp;
+[💻](https://github.com/iiekezie)
+
