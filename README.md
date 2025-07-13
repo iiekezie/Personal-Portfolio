@@ -88,9 +88,12 @@ To enable the contact form:
 | Light Mode Text  | `#212529`  | Text in light mode   |
 
 ## 📱 Responsive Breakpoints
-- Mobile: < 768px
-- Tablet: 768px - 991px
-- Desktop: ≥ 992px
+
+| Device   | Icon | Breakpoint Range     |
+|----------|------|----------------------|
+| Mobile   | 📱   | `< 768px`             |
+| Tablet   | 💻   | `768px – 991px`       |
+| Desktop  | 🖥️   | `≥ 992px`             |
 
 ## 🤝 Contributing
 While this is a personal portfolio, suggestions and improvements are welcome! Please:
